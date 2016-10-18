@@ -8,7 +8,7 @@ There is also inventory tracking of ingredents through the amount of ingredents 
 
 ### Technologies used and dependencies ###
 
-Written in Java using Spring Boot, Maven, JPA, Hibernate, AngularJS, HTML, and LESS
+Written in Java using Spring Boot, Maven, JPA, Hibernate, AngularJS, HTML, and CSS
 
 Dependencies include reflections, spring-boot-starter-web, spring-bot-starter-data-jpa, spring-boot-starter-security, hibernate-entitymanager, mysql-connector-java, mockito-all, selenium-java, and junit
 
